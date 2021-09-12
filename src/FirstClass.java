@@ -10,5 +10,7 @@ public class FirstClass {
         System.out.println("Hello Hawk1");
         System.out.println("Hello Hawk2");
         System.out.println("new conflicting line hawk2");
+        System.out.println("new conflicting line");
+
     }
 }
